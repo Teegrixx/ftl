@@ -17,7 +17,7 @@ async def maintainers(b,m):
     except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="I am Made By [GRIXXTECH](https://t.me/+jdSCugazgfxmYjNk",
+                    text="I am Made By [GRIXXTECH](https://t.me/+jdSCugazgfxmYjNk)",
                     
                     reply_markup=InlineKeyboardMarkup(
                         [
