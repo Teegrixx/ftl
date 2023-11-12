@@ -128,8 +128,8 @@ async def help_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("💁‍♂️ Owner", url="t.me/teegrixx")],
-                [InlineKeyboardButton("💥 Support Us", url="t.me/teegrixx")]
-                [InlineKeyboardButton("✨ G hub", url="t.me/+jdSCugazgfxmYjNk")]    
+                [InlineKeyboardButton("💥 Support Us", url="t.me/teegrixx")],
+                [InlineKeyboardButton("✨ G hub", url="t.me/+jdSCugazgfxmYjNk")],    
             ]
         )
     )
